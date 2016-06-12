@@ -1,0 +1,3 @@
+-- Little test program to check that everything works before doing more complicated programs
+
+print("You just lost the Game")
